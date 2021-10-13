@@ -1,0 +1,1 @@
+This file containes string files and code..
